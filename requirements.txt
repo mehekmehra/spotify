@@ -1,0 +1,13 @@
+spotipy
+pandas
+aiohttp<3.8.1
+pyqt5
+pyqtwebengine
+daal
+pathlib
+pyobjc
+ruamel-yaml
+numpy>=1.18,<1.22
+google-auth>=1.11.0,<2.0dev
+typing-extensions>=4.7.1
+pycodestyle>=2.8.0
