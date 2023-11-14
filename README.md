@@ -1,0 +1,2 @@
+# Analyzing Spotify Data
+This is a personal project to experiment with the Spotify API. I love checking my Spotify statistics on StatsForSpotify or Last.fm, so I decided to make my own version to analyze my playlists. The code currently breaks down the artist distribution in a playlist and plots how the liveness and danceability of songs change as songs are added over time. The code also finds the compatibility between the playlist and a provided CSV. In the example in the code it finds the compatibility between my top songs and the playlist I entered. 
